@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Mohamed</h1>
-<h3 align="center">Passionate Frontend Developer with a Focus on Creating Seamless User Experiences</h3>
+<h3 align="center">Passionate Full Stack Developer with a Focus on Creating Seamless User Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed20039&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed20039" /> </p>
 
